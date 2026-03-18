@@ -33,3 +33,11 @@ mostrar_inventario(): Muestra todos los productos registrados
 calcular_estadisticas(): Calcula métricas del inventario
 
 Bucle principal (while): Controla el menú interactivo
+
+## Ejemplo de uso
+
+===== MENÚ =====
+1. Agregar producto
+2. Mostrar inventario
+3. Calcular estadísticas
+4. Salir
