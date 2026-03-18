@@ -16,3 +16,12 @@ Calcular estadísticas:
     Cantidad total de productos
  Validación de entradas
 Ejecución continua mediante menú interactivo
+
+## 🧠 Conceptos aplicados 
+Este proyecto refuerza los siguientes conceptos de programación:
+    Variables y tipos de datos
+    Listas y diccionarios
+    Estructuras condicionales (if, elif, else)
+    Bucles (while, for)
+    Funciones
+    Manejo básico de errores (try-except)
