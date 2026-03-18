@@ -1,4 +1,5 @@
 # HU_2
+
 # 📦Inventario en Python
 
 ## 🧾 Descripción
