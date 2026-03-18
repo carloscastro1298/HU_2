@@ -23,3 +23,9 @@ Este proyecto refuerza los siguientes conceptos de programación:
     Bucles (while, for)
     Funciones
     Manejo básico de errores (try-except)
+## Estructura del programa
+El código está organizado en funciones:
+    agregar_producto(): Permite añadir productos al inventario
+    mostrar_inventario(): Muestra todos los productos registrados
+    calcular_estadisticas(): Calcula métricas del inventario
+    Bucle principal (while): Controla el menú interactivo
