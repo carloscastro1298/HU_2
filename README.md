@@ -1,14 +1,14 @@
 # HU_2
 
-# 📦Inventario en Python
+# INVENTARIO
 
-## 🧾 Descripción
+## Descripción
 
 Este proyecto consiste en un sistema básico de gestión de inventario desarrollado en Python.
 Permite al usuario agregar productos, visualizar el inventario y calcular estadísticas básicas mediante un menú interactivo en consola.
 
 
-## 🚀 Funcionalidades
+## Funcionalidades
 Agregar productos (nombre, precio y cantidad)
 Mostrar todos los productos del inventario
 Calcular estadísticas:
@@ -17,7 +17,7 @@ Calcular estadísticas:
  Validación de entradas
 Ejecución continua mediante menú interactivo
 
-## 🧠 Conceptos aplicados 
+## Conceptos aplicados 
 Este proyecto refuerza los siguientes conceptos de programación:
     Variables y tipos de datos
     Listas y diccionarios
