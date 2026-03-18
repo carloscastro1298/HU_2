@@ -9,10 +9,10 @@ Permite al usuario agregar productos, visualizar el inventario y calcular estad�
 
 
 ## 🚀 Funcionalidades
-    • ➕ Agregar productos (nombre, precio y cantidad)
-    • 📋 Mostrar todos los productos del inventario
-    • 📊 Calcular estadísticas:
-        ◦ Valor total del inventario
-        ◦ Cantidad total de productos
-    • ❌ Validación de entradas
-    • 🔁 Ejecución continua mediante menú interactivo
+Agregar productos (nombre, precio y cantidad)
+Mostrar todos los productos del inventario
+Calcular estadísticas:
+    Valor total del inventario
+    Cantidad total de productos
+ Validación de entradas
+Ejecución continua mediante menú interactivo
