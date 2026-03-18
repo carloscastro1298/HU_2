@@ -1,6 +1,4 @@
-# HU_2
-
-# INVENTARIO
+# HU_2 INVENTARIO
 
 ## Descripción
 
