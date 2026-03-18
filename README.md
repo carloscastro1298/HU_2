@@ -41,3 +41,6 @@ Bucle principal (while): Controla el menú interactivo
 2. Mostrar inventario
 3. Calcular estadísticas
 4. Salir
+
+## OBJETIVO
+El objetivo de este proyecto es practicar y consolidar los fundamentos de Python mediante la creación de una aplicación funcional que simula un sistema de inventario.
