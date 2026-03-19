@@ -1,4 +1,3 @@
-
 inventario = []
 
 def agregar_producto():
